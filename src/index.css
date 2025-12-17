@@ -26,9 +26,11 @@ button {
   cursor: pointer;
   transition: border-color 0.25s;
   color: white;
+  float:right;
 }
 button:hover {
   border-color: #646cff;
+  background-color: #555353;
 }
 button:focus,
 button:focus-visible {
